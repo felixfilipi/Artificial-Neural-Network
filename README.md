@@ -6,7 +6,8 @@ The most common library to use here :
 * Numpy 
 * Tensorflow 
 * Matplotlib 
-* sklearn
+* Sklearn
+* Keras
 
 I used libraries in some specific version such as : 
 * Python 3.7.9 
